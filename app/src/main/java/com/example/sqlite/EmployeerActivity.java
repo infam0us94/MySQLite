@@ -1,4 +1,4 @@
-package com.exemple.sqlite;
+package com.example.sqlite;
 
 import android.database.Cursor;
 import android.os.Bundle;

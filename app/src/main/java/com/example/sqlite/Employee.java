@@ -1,4 +1,4 @@
-package com.exemple.sqlite;
+package com.example.sqlite;
 
 public class Employee {
     int id;

@@ -1,4 +1,4 @@
-package com.exemple.sqlite;
+package com.example.sqlite;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -13,8 +13,6 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-
-    public static final String DATABASE_NAME = "mydatabase";
 
     DatabaseManager mDatabase;
     EditText editTextName, editTextSalary;
